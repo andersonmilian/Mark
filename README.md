@@ -13,3 +13,14 @@ __Silvio Santos__ Ipsum o arriscam tuduam, valendo um milhão de reaisuam. Patrc
 1. Item 01
 2. Item 02
 3. Item 03
+
+## Trabalhando com Bloco de Códigos
+```
+
+Quando não quero identificar a linguagem com a qual estou trabalhando.
+```
+
+```javascript
+	var s = "Atribuindo valores a uma variavel";
+	alert(s);
+```	
