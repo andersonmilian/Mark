@@ -14,6 +14,13 @@ __Silvio Santos__ Ipsum o arriscam tuduam, valendo um milhão de reaisuam. Patrc
 2. Item 02
 3. Item 03
 
+## Trabalhando com Listas não ordenadas
+
+> Esse é um bloco de citação.
+* Item 01
+- Item 02
++ Item 03
+
 ## Trabalhando com Bloco de Códigos
 ```
 
